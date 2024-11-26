@@ -1,0 +1,8 @@
+
+
+#Environment files and setup
+.env 
+.bundle/*
+
+#Database files
+db/*
